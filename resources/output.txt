@@ -1,0 +1,300 @@
+resources uploaded!
+Classification result: {"text":"test_90.jpeg,hourglass"}
+
+resources uploaded!
+Classification result: {"text":"test_39.jpeg,automated teller machine"}
+
+resources uploaded!
+Classification result: {"text":"test_40.jpeg,picket fence"}
+
+resources uploaded!
+Classification result: {"text":"test_68.jpeg,slide rule"}
+
+resources uploaded!
+Classification result: {"text":"test_66.jpeg,lacewing"}
+
+resources uploaded!
+Classification result: {"text":"test_51.jpeg,jigsaw puzzle"}
+
+resources uploaded!
+Classification result: {"text":"test_48.jpeg,fireboat"}
+
+resources uploaded!
+Classification result: {"text":"test_93.jpeg,church"}
+
+resources uploaded!
+Classification result: {"text":"test_16.jpeg,shoal"}
+
+resources uploaded!
+Classification result: {"text":"test_94.jpeg,ruler"}
+
+resources uploaded!
+Classification result: {"text":"test_18.jpeg,leatherback sea turtle"}
+
+resources uploaded!
+Classification result: {"text":"test_14.jpeg,menu"}
+
+resources uploaded!
+Classification result: {"text":"test_76.jpeg,brass"}
+
+resources uploaded!
+Classification result: {"text":"test_84.jpeg,jeep"}
+
+resources uploaded!
+Classification result: {"text":"test_92.jpeg,mosque"}
+
+resources uploaded!
+Classification result: {"text":"test_20.jpeg,website"}
+
+resources uploaded!
+Classification result: {"text":"test_23.jpeg,envelope"}
+
+resources uploaded!
+Classification result: {"text":"test_75.jpeg,vault"}
+
+resources uploaded!
+Classification result: {"text":"test_85.jpeg,carton"}
+
+resources uploaded!
+Classification result: {"text":"test_50.jpeg,picket fence"}
+
+resources uploaded!
+Classification result: {"text":"test_71.jpeg,starfish"}
+
+resources uploaded!
+Classification result: {"text":"test_3.jpeg,dromedary"}
+
+resources uploaded!
+Classification result: {"text":"test_55.jpeg,Band-Aid"}
+
+resources uploaded!
+Classification result: {"text":"test_47.jpeg,mosquito net"}
+
+resources uploaded!
+Classification result: {"text":"test_33.jpeg,obelisk"}
+
+resources uploaded!
+Classification result: {"text":"test_41.jpeg,aircraft carrier"}
+
+resources uploaded!
+Classification result: {"text":"test_81.jpeg,crossword"}
+
+resources uploaded!
+Classification result: {"text":"test_44.jpeg,shower cap"}
+
+resources uploaded!
+Classification result: {"text":"test_32.jpeg,revolver"}
+
+resources uploaded!
+Classification result: {"text":"test_58.jpeg,cassette"}
+
+resources uploaded!
+Classification result: {"text":"test_74.jpeg,bubble"}
+
+resources uploaded!
+Classification result: {"text":"test_28.jpeg,chimpanzee"}
+
+resources uploaded!
+Classification result: {"text":"test_67.jpeg,shower curtain"}
+
+resources uploaded!
+Classification result: {"text":"test_63.jpeg,beaker"}
+
+resources uploaded!
+Classification result: {"text":"test_70.jpeg,seat belt"}
+
+resources uploaded!
+Classification result: {"text":"test_22.jpeg,boa constrictor"}
+
+resources uploaded!
+Classification result: {"text":"test_31.jpeg,stupa"}
+
+resources uploaded!
+Classification result: {"text":"test_10.jpeg,face powder"}
+
+resources uploaded!
+Classification result: {"text":"test_1.jpeg,tile roof"}
+
+resources uploaded!
+Classification result: {"text":"test_88.jpeg,trilobite"}
+
+resources uploaded!
+Classification result: {"text":"test_24.jpeg,safe"}
+
+resources uploaded!
+Classification result: {"text":"test_56.jpeg,dragonfly"}
+
+resources uploaded!
+Classification result: {"text":"test_86.jpeg,cauliflower"}
+
+resources uploaded!
+Classification result: {"text":"test_89.jpeg,magnetic compass"}
+
+resources uploaded!
+Classification result: {"text":"test_82.jpeg,spider web"}
+
+resources uploaded!
+Classification result: {"text":"test_27.jpeg,shoal"}
+
+resources uploaded!
+Classification result: {"text":"test_61.jpeg,fireboat"}
+
+resources uploaded!
+Classification result: {"text":"test_45.jpeg,tub"}
+
+resources uploaded!
+Classification result: {"text":"test_7.jpeg,handkerchief"}
+
+resources uploaded!
+Classification result: {"text":"test_12.jpeg,zebra"}
+
+resources uploaded!
+Classification result: {"text":"test_36.jpeg,dust jacket"}
+
+resources uploaded!
+Classification result: {"text":"test_53.jpeg,brass"}
+
+resources uploaded!
+Classification result: {"text":"test_11.jpeg,custard apple"}
+
+resources uploaded!
+Classification result: {"text":"test_21.jpeg,starfish"}
+
+resources uploaded!
+Classification result: {"text":"test_91.jpeg,Maltese"}
+
+resources uploaded!
+Classification result: {"text":"test_46.jpeg,sink"}
+
+resources uploaded!
+Classification result: {"text":"test_99.jpeg,alp"}
+
+resources uploaded!
+Classification result: {"text":"test_83.jpeg,picket fence"}
+
+resources uploaded!
+Classification result: {"text":"test_30.jpeg,candle"}
+
+resources uploaded!
+Classification result: {"text":"test_65.jpeg,shower curtain"}
+
+resources uploaded!
+Classification result: {"text":"test_98.jpeg,yawl"}
+
+resources uploaded!
+Classification result: {"text":"test_4.jpeg,jellyfish"}
+
+resources uploaded!
+Classification result: {"text":"test_69.jpeg,bubble"}
+
+resources uploaded!
+Classification result: {"text":"test_0.jpeg,bathtub"}
+
+resources uploaded!
+Classification result: {"text":"test_43.jpeg,jellyfish"}
+
+resources uploaded!
+Classification result: {"text":"test_60.jpeg,shoal"}
+
+resources uploaded!
+Classification result: {"text":"test_79.jpeg,dock"}
+
+resources uploaded!
+Classification result: {"text":"test_64.jpeg,nipple"}
+
+resources uploaded!
+Classification result: {"text":"test_38.jpeg,mosquito net"}
+
+resources uploaded!
+Classification result: {"text":"test_35.jpeg,conch"}
+
+resources uploaded!
+Classification result: {"text":"test_73.jpeg,brass"}
+
+resources uploaded!
+Classification result: {"text":"test_96.jpeg,mosquito net"}
+
+resources uploaded!
+Classification result: {"text":"test_13.jpeg,hourglass"}
+
+resources uploaded!
+Classification result: {"text":"test_2.jpeg,jigsaw puzzle"}
+
+resources uploaded!
+Classification result: {"text":"test_5.jpeg,oxygen mask"}
+
+resources uploaded!
+Classification result: {"text":"test_37.jpeg,chameleon"}
+
+resources uploaded!
+Classification result: {"text":"test_54.jpeg,military uniform"}
+
+resources uploaded!
+Classification result: {"text":"test_9.jpeg,flamingo"}
+
+resources uploaded!
+Classification result: {"text":"test_26.jpeg,shower curtain"}
+
+resources uploaded!
+Classification result: {"text":"test_97.jpeg,radio telescope"}
+
+resources uploaded!
+Classification result: {"text":"test_17.jpeg,crossword"}
+
+resources uploaded!
+Classification result: {"text":"test_15.jpeg,mosquito net"}
+
+resources uploaded!
+Classification result: {"text":"test_77.jpeg,banded gecko"}
+
+resources uploaded!
+Classification result: {"text":"test_62.jpeg,medicine chest"}
+
+resources uploaded!
+Classification result: {"text":"test_42.jpeg,wall clock"}
+
+resources uploaded!
+Classification result: {"text":"test_59.jpeg,shower curtain"}
+
+resources uploaded!
+Classification result: {"text":"test_19.jpeg,toy store"}
+
+resources uploaded!
+Classification result: {"text":"test_8.jpeg,slide rule"}
+
+resources uploaded!
+Classification result: {"text":"test_49.jpeg,valley"}
+
+resources uploaded!
+Classification result: {"text":"test_34.jpeg,Standard Poodle"}
+
+resources uploaded!
+Classification result: {"text":"test_57.jpeg,radio telescope"}
+
+resources uploaded!
+Classification result: {"text":"test_80.jpeg,hourglass"}
+
+resources uploaded!
+Classification result: {"text":"test_25.jpeg,stupa"}
+
+resources uploaded!
+Classification result: {"text":"test_29.jpeg,shower curtain"}
+
+resources uploaded!
+Classification result: {"text":"test_6.jpeg,shower curtain"}
+
+resources uploaded!
+Classification result: {"text":"test_87.jpeg,honeycomb"}
+
+resources uploaded!
+Classification result: {"text":"test_52.jpeg,beer glass"}
+
+resources uploaded!
+Classification result: {"text":"test_72.jpeg,fireboat"}
+
+resources uploaded!
+Classification result: {"text":"test_95.jpeg,hourglass"}
+
+resources uploaded!
+Classification result: {"text":"test_78.jpeg,whiskey jug"}
+
